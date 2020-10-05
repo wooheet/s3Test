@@ -1,0 +1,17 @@
+{
+  "status": {
+    "updateAt": "16013410591231",
+    "ios": "d2p6tf53chwy7y.s3.net/jp/ios/status.json",
+    "android": "d2p6tf53chwy7y.s3.net/jp/android/status.json",
+  },
+  "settings": {
+    "updateAt": "16013410591231",
+    "ios": "d2p6tf53chwy7y.s3.net/jp/ios/settings.json",
+    "android": "d2p6tf53chwy7y.s3.net/jp/android/settings.json",
+  },
+  "versions": {
+    "updateAt": "16013410591231",
+    "ios": "d2p6tf53chwy7y.s3.net/jp/ios/version.json",
+    "android": "d2p6tf53chwy7y.s3.net/jp/android/version.json",
+  }
+}

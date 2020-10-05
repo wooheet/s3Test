@@ -1,0 +1,17 @@
+{
+  "status": {
+    "updateAt": "16013410591231",
+    "ios": "d2p6tf53chwy7y.s3.net/mena/ios/status.json",
+    "android": "d2p6tf53chwy7y.s3.net/mena/android/status.json",
+  },
+  "settings": {
+    "updateAt": "16013410591231",
+    "ios": "d2p6tf53chwy7y.s3.net/mena/ios/settings.json",
+    "android": "d2p6tf53chwy7y.s3.net/mena/android/settings.json",
+  },
+  "versions": {
+    "updateAt": "16013410591231",
+    "ios": "d2p6tf53chwy7y.s3.net/mena/ios/version.json",
+    "android": "d2p6tf53chwy7y.s3.net/mena/android/version.json",
+  }
+}
