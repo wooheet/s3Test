@@ -1,0 +1,37 @@
+{
+  "settings": {
+    "updateAt": "16013410591231",
+    "ios": {
+      "LIVE_AUTH_OPEN_COUNT": "20",
+      "PURCHASE_SPOON": "10,50,100,500,1000,3000",
+      "LIVE_CALL_MODE": "1",
+      "IOS_USE_ALAMOFIRE": "1",
+      "MINOR_MONTHLY_PAY_LIMIT": "1000000",
+      "MIN_EXCHANGE_SPOON_COUNT": "500",
+      "LIVE_AIRTIME": "120",
+      "MARKETING_EVENT_TAG": "0",
+      "IOS_USE_IAPMANAGER": "1",
+      "IN_APP_BILLING_VERSION": "0",
+      "WELCOME_SPOON_COUNT": "2",
+      "RESOURCE_CDN": "https://static.spooncast.net",
+      "STICKER_COLOR_MODE": "1",
+      "LIVE_AUTO_BLIND_COUNT": "10"
+    },
+    "android": {
+      "LIVE_AUTH_OPEN_COUNT": "20",
+      "PURCHASE_SPOON": "10,50,100,500,1000,3000",
+      "LIVE_CALL_MODE": "1",
+      "IOS_USE_ALAMOFIRE": "1",
+      "MINOR_MONTHLY_PAY_LIMIT": "1000000",
+      "MIN_EXCHANGE_SPOON_COUNT": "500",
+      "LIVE_AIRTIME": "120",
+      "MARKETING_EVENT_TAG": "0",
+      "IOS_USE_IAPMANAGER": "1",
+      "IN_APP_BILLING_VERSION": "0",
+      "WELCOME_SPOON_COUNT": "2",
+      "RESOURCE_CDN": "https://static.spooncast.net",
+      "STICKER_COLOR_MODE": "1",
+      "LIVE_AUTO_BLIND_COUNT": "10"
+    }
+  }
+}

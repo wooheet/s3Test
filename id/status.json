@@ -1,0 +1,11 @@
+{
+  "status": {
+    "updateAt": "16013410591231",
+    "ios": {
+          "status": 200
+    },
+    "android": {
+          "status": 200
+    },
+  }
+}
