@@ -1,0 +1,26 @@
+{
+  "versions": {
+    "updateAt": "16013410591231",
+    "ios": {
+      "force_build_list": [],
+      "os": "ios",
+      "major": 5,
+      "minor": 4,
+      "patch": 3,
+      "last_build_no": 1212,
+      "force_build_no": 1002
+    },
+    "android": {
+      "force_build_list": [
+        263,
+        264
+      ],
+      "os": "android",
+      "major": 5,
+      "minor": 4,
+      "patch": 3,
+      "last_build_no": 278,
+      "force_build_no": 203
+    }
+  }
+}
